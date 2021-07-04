@@ -1,1 +1,1 @@
-# funcky_go
+# funcky
